@@ -54,5 +54,9 @@ HTML 5.0, CSS, JavaScript, jQuery, Bootstrap, React
 https://thomas-nw.github.io/19_React_Employee_Directory_TS/
 
 
+## Heroku reference
+https://react-employee-directory-ts.herokuapp.com/
+
+
 Thank you for visiting and reviewing the project. 
 ---
